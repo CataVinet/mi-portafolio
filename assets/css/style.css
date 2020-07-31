@@ -9,9 +9,7 @@ body {
 .logo{
 	font-family: 'Satisfy', cursive;
 }
-.grey{
-	background-color: #373A3C;
-}
+
 
 header {
 background-image: url('../img/fotocv-1.jpg');
@@ -26,4 +24,8 @@ padding-bottom: 10rem;
 
 	.contacto {
 		background: #053e48;
+	}
+
+	.boton {
+		color:#ffffff;
 	}
